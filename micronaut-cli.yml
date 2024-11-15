@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [app-name, aws-lambda, aws-lambda-events-serde, aws-lambda-handler-default, aws-v2-sdk, dynamodb, gradle, http-client-test, java, java-application, junit, logback, micronaut-aot, micronaut-build, micronaut-http-validation, properties, readme, serialization-jackson, shade, snapstart, static-resources, validation, x86]
